@@ -14,11 +14,11 @@
   "author": "Tushar",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tusharverma46/react-native-smart-skeleton.git"
+    "url": "git+https://github.com/tusharverma46/react-native-smart-shimmer.git"
   },
-  "homepage": "https://github.com/tusharverma46/react-native-smart-skeleton#readme",
+  "homepage": "https://github.com/tusharverma46/react-native-smart-shimmer#readme",
   "bugs": {
-    "url": "https://github.com/tusharverma46/react-native-smart-skeleton/issues"
+    "url": "https://github.com/tusharverma46/react-native-smart-shimmer/issues"
   },
   "main": "lib/index.js",
   "module": "lib/index.js",
